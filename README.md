@@ -1,3 +1,4 @@
+<img width="1397" height="788" alt="image" src="https://github.com/user-attachments/assets/7c907871-c816-496a-9747-6851b3c385aa" />
 Credit Risk Analysis & Prediction Dashboard
 📌 Project Overview
 
